@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1762805965225,238,HTTP SOAP POST Request2,200,OK,Thread Group 1-2,text,true,,587,616,3,3,http://www.dneonline.com/calculator.asmx,238,0,117
+1762805965024,456,HTTP SOAP POST Request1,200,OK,Thread Group 1-1,text,true,,587,616,3,3,http://www.dneonline.com/calculator.asmx,456,0,327
+1762805965463,116,My Request POST Request2,200,OK,Thread Group 1-2,text,true,,587,616,3,3,http://www.dneonline.com/calculator.asmx,116,0,0
+1762805965480,127,My Request POST Request1,200,OK,Thread Group 1-1,text,true,,587,616,2,2,http://www.dneonline.com/calculator.asmx,127,0,0
+1762805965425,219,HTTP SOAP POST Request3,200,OK,Thread Group 1-3,text,true,,587,616,2,2,http://www.dneonline.com/calculator.asmx,218,0,102
+1762805965644,104,My Request POST Request3,200,OK,Thread Group 1-3,text,true,,587,616,2,2,http://www.dneonline.com/calculator.asmx,104,0,0
+1762805965624,230,HTTP SOAP POST Request4,200,OK,Thread Group 1-4,text,true,,587,616,2,2,http://www.dneonline.com/calculator.asmx,230,0,114
+1762805965855,118,My Request POST Request4,200,OK,Thread Group 1-4,text,true,,587,616,2,2,http://www.dneonline.com/calculator.asmx,118,0,0
+1762805965824,236,HTTP SOAP POST Request5,200,OK,Thread Group 1-5,text,true,,587,616,1,1,http://www.dneonline.com/calculator.asmx,236,0,115
+1762805966061,118,My Request POST Request5,200,OK,Thread Group 1-5,text,true,,587,616,1,1,http://www.dneonline.com/calculator.asmx,118,0,0

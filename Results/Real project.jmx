@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1762878833884,272,HTTP Request,200,OK,Thread Group 1-1,text,true,,620,233,1,1,https://api.api-ninjas.com/v1/unitconversion?have=fahrenheit&unit=celsius&amount=25,272,0,117
